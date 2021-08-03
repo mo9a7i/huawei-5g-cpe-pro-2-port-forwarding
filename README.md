@@ -34,6 +34,7 @@ I have googled around for how to open ports on the new 5g modems such as the **H
 - That's it, congratulations on your NAT TYPE OPEN
 
 <span dir="rtl" align="right">
+
 ## الخطوات بالعربي
 
 - سجل دخول بصفحة إدارة المودم حقك عالرابط  [http://192.168.8.1/](http://192.168.8.1/), الباسورد بتلاقيه تحت المودم
@@ -60,6 +61,7 @@ I have googled around for how to open ports on the new 5g modems such as the **H
 - فعله هو بعد
   ![UPNP](https://raw.githubusercontent.com/Mo9a7i/huawei-5g-cpe-pro-2-port-forwarding/main/assets/images/upnp.png)
 - وبس، مبروك عليك الـ NAT TYPE OPEN
+
 </span>
 
 ## Say thanks if this helped
