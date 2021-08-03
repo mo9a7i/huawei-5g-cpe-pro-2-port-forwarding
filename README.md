@@ -33,10 +33,11 @@ I have googled around for how to open ports on the new 5g modems such as the **H
 
 
 
-<div dir="rtl">
+<span dir="rtl" align="right">
+
 ## الخطوات بالعربي
 
-</div>
+</span>
 
 
 
